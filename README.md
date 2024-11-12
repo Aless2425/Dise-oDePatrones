@@ -14,7 +14,7 @@ El sistema está basado en una conexión a MySQL para gestionar la base de datos
 - `id` (INT, PRIMARY KEY, AUTO_INCREMENT)
 - `titulo` (VARCHAR)
 - `autor` (VARCHAR)
-- `anio` (INT)
+- `ano` (INT)
 - `genero` (VARCHAR)
 - `isbn` (VARCHAR)
 
